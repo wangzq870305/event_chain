@@ -1,0 +1,23 @@
+1 persuade persuade subj
+2 crossed cross subj
+3 rally rally subj
+4 told tell subj
+5 recounted recount subj
+6 join join obj
+7 succeed succeed subj
+8 join join obj
+9 capture capture obj
+
+B 2 3
+
+--------------------------
+Hamid Karzai actions
+
+--------------------------
+<DOC id="NYT_ENG_20011102.0438" type="story" >
+<HEADLINE>
+ANTI-TALIBAN COMMANDER IN SOUTHERN AFGHANISTAN SEEKING SUPPORTERS
+</HEADLINE>
+<DATELINE>
+QUETTA, Pakistan (BC-ANTI-TALIBAN-LEADERS-NYT)
+</DATELINE>

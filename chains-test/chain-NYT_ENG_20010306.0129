@@ -1,0 +1,31 @@
+1 resign resign subj
+2 obtained obtain subj
+3 leading lead subj
+4 found find subj
+5 handed hand subj
+6 flew fly subj
+7 resigned resign subj
+8 donated donate subj
+9 announced announce subj
+10 escaped escape subj
+
+B 3 2
+B 4 5
+B 2 5
+B 5 6
+B 6 7
+B 8 6
+B 9 10
+
+
+--------------------------
+President Fujimori actions
+
+--------------------------
+<DOC id="NYT_ENG_20010306.0129" type="story" >
+<HEADLINE>
+$ADV25
+</HEADLINE>
+<DATELINE>
+ (BC-PERU-VIDEOS-CENTERPIECE-ADV25-ART-NYTSF)
+</DATELINE>

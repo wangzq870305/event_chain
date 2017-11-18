@@ -1,0 +1,29 @@
+1 occupied occupy subj
+2 brought bring subj
+3 projects project subj
+4 met meet subj
+5 offered offer subj
+6 voted vote pp
+7 thinks think subj
+8 rejecting reject subj
+9 appeared appear subj
+10 offer offer subj
+
+B 4 5
+B 6 5
+B 6 4
+B 6 8
+B 5 9
+
+
+--------------------------
+President Bush actions
+
+--------------------------
+<DOC id="NYT_ENG_20010601.0019" type="story" >
+<HEADLINE>
+EDITORIAL: BUSH'S IDEA OF LEADERSHIP
+</HEADLINE>
+<DATELINE>
+ (BC-EDIT-BUSH-LEADERSHIP-NYT)
+</DATELINE>

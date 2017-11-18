@@ -1,0 +1,22 @@
+1 used use subj
+2 accused accuse obj
+3 search_for search obj
+4 controlled control subj
+5 suspected suspect obj
+6 hunt_down hunt obj
+
+B 1 2
+B 2 3
+B 2 6
+
+--------------------------
+Taliban leadership actions
+
+--------------------------
+<DOC id="NYT_ENG_20011128.0046" type="story" >
+<HEADLINE>
+U.S. PLANES BOMB AFGHAN LEADERS' COMPOUND
+</HEADLINE>
+<DATELINE>
+TAMPA, Fla. (BC-ATTACK-MILITARY-2NDLD-WRITETHRU-ART-1150&AMP;ADD-NYT)
+</DATELINE>

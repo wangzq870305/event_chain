@@ -1,0 +1,34 @@
+1 introduced introduce obj
+2 grinned grin subj
+3 become become subj
+4 portrayed portray obj
+5 portrayed portray subj
+6 received receive subj
+7 invited invite obj
+8 calling call obj
+9 met meet obj
+10 training train subj
+11 said say subj
+
+B 1 2
+B 3 1
+B 6 3
+B 7 3
+B 4 8
+B 5 8
+B 9 4
+B 9 5
+B 9 10
+
+
+--------------------------
+Philip Mosley actions
+
+--------------------------
+<DOC id="NYT_ENG_20010619.0302" type="story" >
+<HEADLINE>
+WILL THE REAL BILLY ELLIOT PLEASE RELEVE
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-BRITISH-BOY-DANCER-NYT)
+</DATELINE>

@@ -1,0 +1,37 @@
+1 pressured pressure subj
+2 send send obj
+3 said say subj
+4 asserted assert subj
+5 urged urge subj
+6 said say subj
+7 selected select subj
+8 present present obj
+9 outreach outreach subj
+10 spoke speak subj
+11 mentioned mention subj
+12 framed frame subj
+13 voted vote pp
+14 wants want subj
+15 said say subj
+16 meet meet obj
+17 fared fare subj
+
+B 1 2
+B 7 3
+B 7 4
+B 7 5
+B 7 6
+B 13 7
+B 13 1
+
+--------------------------
+President Bush actions
+
+--------------------------
+<DOC id="NYT_ENG_20010801.0291" type="story" >
+<HEADLINE>
+BUSH URGES CONGRESS TO MOVE QUICKLY ON EDUCATION BILLS
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-BUSH-EDUC-1STLD-WRITETHRU-NYT)
+</DATELINE>

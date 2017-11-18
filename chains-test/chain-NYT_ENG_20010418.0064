@@ -1,0 +1,19 @@
+1 find_out find subj
+2 negotiating negotiate subj
+3 identified identify obj
+4 dresses dress subj
+5 presents present obj
+
+B 2 1
+
+--------------------------
+Jennifer Lopez actions
+
+--------------------------
+<DOC id="NYT_ENG_20010418.0064" type="story" >
+<HEADLINE>
+CELEBRITY APPAREL: SURVIVAL OF THE FITTEST
+</HEADLINE>
+<DATELINE>
+NEW YORK (BC-CELEBRITY-APPAREL-FAIRCHILD-ART-1400WDS-NYTSF)
+</DATELINE>

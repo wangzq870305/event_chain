@@ -1,0 +1,45 @@
+1 peer_down peer subj
+2 reflect reflect subj
+3 announce announce subj
+4 keeping keep subj
+5 views view subj
+6 talk talk subj
+7 selling sell subj
+8 stayed_on stay subj
+9 hoped hope subj
+10 use use subj
+11 found find subj
+12 left leave subj
+13 took_off take subj
+14 build build subj
+15 started start subj
+16 used use subj
+17 contends contend subj
+18 create create subj
+19 dissuaded dissuade obj
+20 go go subj
+21 demand demand subj
+22 mellowed mellow subj
+23 take_pride take subj L
+24 found find subj
+
+B 7 8
+B 7 11
+B 11 12
+B 11 13
+B 13 15
+B 17 18
+B 15 17
+
+
+--------------------------
+Steve Perlman actions
+
+--------------------------
+<DOC id="NYT_ENG_20010422.0090" type="story" >
+<HEADLINE>
+STARTUP HOPES TO SHAPE THE FUTURE BY KEEPING ITS ROOTS IN THE
+</HEADLINE>
+<DATELINE>
+PALO ALTO, Calif. (BC-PERLMAN-STARTUP-ART-950&AMP;ADD-NYT)
+</DATELINE>

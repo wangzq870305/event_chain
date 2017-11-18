@@ -1,0 +1,75 @@
+1 grew_up grow subj
+2 recount recount subj
+3 broke break subj
+4 went go subj
+5 work work subj
+6 ran run subj
+7 stepped step subj
+8 elected elect obj
+9 defeated defeat subj
+10 takes_over take subj
+11 said say subj
+12 played play subj
+13 developed develop subj
+14 recruited recruit obj
+15 received receive subj
+16 left leave subj
+17 returned return subj
+18 living live subj
+19 buying buy subj
+20 went go subj
+21 ran run subj
+22 managed manage subj
+23 laying lay subj
+24 attending attend subj
+25 supported support obj
+26 won win subj
+27 re-elected re-elect obj
+28 supported support subj
+29 run run subj
+30 serve serve subj
+31 bring bring subj
+32 work work subj
+33 encourage encourage subj
+34 received receive subj
+35 supported support obj
+36 made_strides make subj L
+
+B 3 5
+B 4 5
+B 5 6
+B 6 7
+B 7 8
+B 1 8
+B 8 9
+B 12 13
+B 13 14
+B 14 15
+B 16 17
+B 15 17
+B 17 18
+B 18 19
+B 17 20
+B 21 22
+B 21 23
+B 21 24
+B 24 26
+B 26 27
+B 26 28
+B 29 26
+B 29 34
+B 29 35
+B 26 36
+
+
+--------------------------
+Alex Padilla actions
+
+--------------------------
+<DOC id="NYT_ENG_20010706.0292" type="story" >
+<HEADLINE>
+FROM HUMBLE ROOTS TO LOS ANGELES COUNCIL PRESIDENT
+</HEADLINE>
+<DATELINE>
+LOS ANGELES (BC-L.A.-COUNCIL-PRESIDENT-NYT)
+</DATELINE>

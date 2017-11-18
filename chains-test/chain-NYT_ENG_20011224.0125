@@ -1,0 +1,38 @@
+1 running run subj
+2 escaped escape subj
+3 watched watch subj
+4 raised raise subj
+5 said say subj
+6 rushed rush subj
+7 named name obj
+8 named name obj
+9 turned turn subj
+10 experienced experience subj
+11 suspended suspend obj
+12 looking look subj
+13 rushed rush subj
+14 scored score subj
+15 skip skip subj
+16 enter enter subj
+17 wait wait subj
+18 decide decide subj
+19 return return subj
+20 said say subj
+
+B 3 4
+B 6 7
+B 7 9
+B 11 9
+B 15 16
+
+--------------------------
+William Green actions
+
+--------------------------
+<DOC id="NYT_ENG_20011224.0125" type="story" >
+<HEADLINE>
+Eagles back escapes past to be a star
+</HEADLINE>
+<DATELINE>
+ (BC-FBC-GAFOOT-1225-COX)
+</DATELINE>

@@ -1,0 +1,35 @@
+1 based_in base subj
+2 born born obj
+3 raised raise obj
+4 studied study subj
+5 spent_time spend subj
+6 calls call subj
+7 said say subj
+8 continued continue subj
+9 knew know subj
+10 graduated graduate subj
+11 said say subj
+12 mapping map subj
+13 said say subj
+14 said say subj
+15 sees see subj
+
+B 2 3
+B 3 4
+B 4 5
+B 4 1
+B 4 10
+B 10 1
+B 10 5
+
+--------------------------
+Harlem , Mehretu actions
+
+--------------------------
+<DOC id="NYT_ENG_20011205.0143" type="story" >
+<HEADLINE>
+MAPPING A NEW, AND URGENT, HISTORY OF THE WORLD
+</HEADLINE>
+<DATELINE>
+NEW YORK (BC-EXHIBIT-MEHRETU-$ADV09-ART-NYT)
+</DATELINE>

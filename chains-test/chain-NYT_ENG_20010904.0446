@@ -1,0 +1,64 @@
+1 honor honor obj
+2 gunned_down gun obj
+3 ducking duck subj
+4 spoke speak pp
+5 loved love obj
+6 remembered remember obj
+7 laid lay obj
+8 touched touch subj
+9 lived live subj
+10 worked work subj
+11 memorialized memorialize obj
+12 shot shoot obj
+13 backing_up back subj
+14 shooting shoot obj
+15 became become subj
+16 immigrated immigrate subj
+17 worked work subj
+18 awarded award obj
+19 joined join subj
+20 graduating graduate subj
+21 worked work subj
+22 recalled recall obj
+
+B 3 2
+B 2 1
+B 2 6
+B 1 7
+B 6 7
+B 8 11
+B 9 11
+B 10 11
+B 8 1
+B 9 1
+B 10 1
+B 13 12
+B 13 14
+B 12 1
+B 12 6
+B 12 11
+B 14 1
+B 14 6
+B 14 11
+B 16 15
+B 16 17
+B 18 19
+B 20 21
+B 2 22
+B 12 22
+B 14 22
+B 21 22
+B 19 22
+
+
+--------------------------
+slain Deputy Hagop `` Jake '' Kuredjian actions
+
+--------------------------
+<DOC id="NYT_ENG_20010904.0446" type="story" >
+<HEADLINE>
+GRIEVING THOUSANDS MOURN SLAIN DEPUTY
+</HEADLINE>
+<DATELINE>
+LOS ANGELES (BC-FUNERAL-DEPUTY-LADN)
+</DATELINE>

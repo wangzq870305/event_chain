@@ -1,0 +1,23 @@
+1 departed depart subj
+2 sending send subj
+3 acts act subj
+4 acted act subj
+5 urge urge obj
+6 pass pass subj
+
+B 1 3
+B 5 6
+B 5 2
+B 5 3
+
+--------------------------
+Congress actions
+
+--------------------------
+<DOC id="NYT_ENG_20011116.0194" type="story" >
+<HEADLINE>
+MANY THINK ECONOMY MAY RECOVER WITHOUT STIMULUS BILL 
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-ECONOMY-$ADV18-COX)
+</DATELINE>

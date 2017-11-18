@@ -1,0 +1,71 @@
+1 spends spend subj
+2 watching watch subj
+3 charged charge obj
+4 spend spend subj
+5 spinning spin subj
+6 clinging cling subj
+7 playing play subj
+8 earning earn subj
+9 bought buy subj
+10 threw throw subj
+11 consorted consort subj
+12 said say subj
+13 beat_up beat subj
+14 finding find subj
+15 represented represent obj
+16 finds find obj
+17 made make subj
+18 owns own subj
+19 described describe subj
+20 laid_out lay subj
+21 exclaimed exclaim subj
+22 straddled straddle subj
+23 told tell subj
+24 worked work subj
+25 born born obj
+26 enrolled enroll obj
+27 went go subj
+28 dropped_out drop subj
+29 fired fire obj
+30 formed form subj
+31 sold sell subj
+32 won win subj
+33 released release subj
+34 stay_out stay subj
+35 strolled stroll subj
+36 pulled_out pull subj
+37 denied deny subj
+38 offered offer subj
+
+B 3 1
+B 3 2
+B 1 4
+B 11 3
+B 8 9
+B 8 10
+B 10 3
+B 13 3
+B 17 3
+B 24 3
+B 25 3
+B 25 24
+B 25 26
+B 26 27
+B 27 28
+B 29 30
+B 30 31
+B 3 37
+B 36 3
+
+
+--------------------------
+Sean `` Puffy '' Combs actions
+
+--------------------------
+<DOC id="NYT_ENG_20010124.0181" type="story" >
+<HEADLINE>
+RAPPER TRIAL A TALE OF TWO WORLDS
+</HEADLINE>
+<DATELINE>
+NEW YORK (BC-COMBS-TRIAL-BOS)
+</DATELINE>

@@ -1,0 +1,34 @@
+1 lure lure obj
+2 encouraging encourage obj
+3 said say subj
+4 leave leave subj
+5 move move subj
+6 luring lure obj
+7 rank rank obj
+8 attracting attract obj
+9 said say subj
+10 conduct conduct subj
+12 offered offer obj
+13 greeted greet obj
+
+B 4 5
+B 1 4
+B 2 4
+B 6 4
+B 8 4
+B 10 4
+B 12 4
+B 13 4
+
+
+--------------------------
+Boeing actions
+
+--------------------------
+<DOC id="NYT_ENG_20010509.0423" type="story" >
+<HEADLINE>
+COMPETITION IS FEVERISH AS 3 CITIES WOO BOEING
+</HEADLINE>
+<DATELINE>
+CHICAGO (BC-BOEING-HEADQUARTERS-ART-NYT)
+</DATELINE>

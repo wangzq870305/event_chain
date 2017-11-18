@@ -1,0 +1,24 @@
+1 turned_to turn obj
+2 threw throw subj
+3 said say subj
+4 pulled pull obj
+5 start start subj
+6 completed complete subj
+7 said say subj
+
+B 4 5
+B 5 2
+B 2 1
+B 5 6
+
+--------------------------
+Ryan McCann actions
+
+--------------------------
+<DOC id="NYT_ENG_20011104.0024" type="story" >
+<HEADLINE>
+MCCANN CAN'T MAKE THE BEST OF IT ... ADDS MATERIAL AT END
+</HEADLINE>
+<DATELINE>
+PULLMAN, Wash. (BC-FBC-UCSIDE2-LADN)
+</DATELINE>

@@ -1,0 +1,37 @@
+1 seized seize subj
+2 cut_down cut subj
+3 positioned position subj
+4 announced announce subj
+5 reoccupied reoccupy subj
+6 remain remain subj
+7 returning return subj
+8 sealed seal subj
+9 positioned position subj
+10 seized seize subj
+11 setting_up set subj
+12 remained remain subj
+13 seized seize subj
+14 entered enter subj
+15 retreated retreat subj
+16 stayed stay subj
+
+B 1 2
+B 2 3
+B 3 4
+B 4 7
+B 8 9
+B 9 10
+B 10 11
+B 14 15
+
+--------------------------
+"Israel forces" actions
+
+--------------------------
+<DOC id="NYT_ENG_20010417.0372" type="story" >
+<HEADLINE>
+ISRAELIS SEIZE PALESTINIAN TERRITORY, THEN RETREAT UNDER U.S.
+</HEADLINE>
+<DATELINE>
+JERUSALEM (BC-MIDEAST-VIOLENCE-2NDLD-WRITETHRU-ART-NYT)
+</DATELINE>

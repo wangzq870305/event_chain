@@ -1,0 +1,26 @@
+1 tune_in tune pp
+2 left leave subj
+3 stepping_into step subj
+4 left leave subj
+5 predicted predict subj
+6 reclaim reclaim subj
+7 said say subj
+
+B 2 3
+B 4 3
+B 5 6
+B 2 6
+B 4 6
+
+
+--------------------------
+Lou Dobbs actions
+
+--------------------------
+<DOC id="NYT_ENG_20010509.0428" type="story" >
+<HEADLINE>
+PARRYING CNN, CNBC PLANS TO AUGMENT `BUSINESS CENTER'
+</HEADLINE>
+<DATELINE>
+ (BC-TV-BUSINESS-NEWS-NYT)
+</DATELINE>

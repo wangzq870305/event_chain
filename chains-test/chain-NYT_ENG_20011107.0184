@@ -1,0 +1,23 @@
+1 found find subj
+2 cut_off cut subj
+3 legislate legislate subj
+4 promote promote pp_among
+5 looking_for look subj
+6 notify notify obj
+7 travel travel subj
+
+B 1 3
+B 2 3
+
+
+--------------------------
+Congress actions
+
+--------------------------
+<DOC id="NYT_ENG_20011107.0184" type="story" >
+<HEADLINE>
+HAND-HELD GADGETS HAVE BECOME GODSENDS FOR CONGRESS
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-CIR-MOBILE-CONGRESS-ART-NYT)
+</DATELINE>

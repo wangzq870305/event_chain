@@ -1,0 +1,31 @@
+1 play play subj
+2 support support subj
+3 act act subj
+4 use use subj
+5 returned return pp
+6 play play subj
+7 accomplish accomplish subj
+8 need need subj
+9 grapple grapple subj
+10 deal_with deal subj
+11 strengthen strengthen subj
+12 change change subj
+13 reinforce reinforce subj
+
+B 5 6
+B 5 7
+B 9 7
+B 9 10
+
+
+--------------------------
+Japan actions
+
+--------------------------
+<DOC id="NYT_ENG_20011016.0074" type="story" >
+<HEADLINE>
+COMMENTARY: JAPAN'S ROLE IN INTERNATIONAL FIGHT AGAINST TERRORISM
+</HEADLINE>
+<DATELINE>
+ (BC-JAPAN-ROLE-FIGHT-TERRORISM-ASAHI-NYTSF)
+</DATELINE>

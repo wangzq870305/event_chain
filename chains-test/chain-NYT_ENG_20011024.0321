@@ -1,0 +1,21 @@
+1 give give obj
+2 celebrated celebrate subj
+3 running run subj
+4 decided decide subj
+5 reopen reopen subj
+
+B 1 2
+B 4 5
+B 2 4
+
+--------------------------
+St. Louis orchestra actions
+
+--------------------------
+<DOC id="NYT_ENG_20011024.0321" type="story" >
+<HEADLINE>
+SEVERAL ORCHESTRAS IN TROUBLE FINANCIALLY
+</HEADLINE>
+<DATELINE>
+ (BC-ORCHESTRA-HARDSHIPS-NYT)
+</DATELINE>

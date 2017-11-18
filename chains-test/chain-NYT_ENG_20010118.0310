@@ -1,0 +1,25 @@
+1 aware aware subj
+2 sold sell subj
+3 thinks think subj
+4 paid_off pay subj
+5 walk_away walk subj
+6 puts put subj
+
+B 1 2
+B 3 2
+B 2 4
+B 4 5
+B 2 5
+B 6 2
+
+--------------------------
+Thomas Murray actions
+
+--------------------------
+<DOC id="NYT_ENG_20010118.0310" type="story" >
+<HEADLINE>
+RECESSION FEARS FOR AMERICANS WHO HAVE BORROWED HEAVILY AGAINST
+</HEADLINE>
+<DATELINE>
+ (BC-HOME-EQUITY-ART-960(2TAKES)-NYT)
+</DATELINE>

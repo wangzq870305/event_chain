@@ -1,0 +1,38 @@
+1 credits credit obj
+2 oversees oversee subj
+3 worked work subj
+4 earning earn subj
+5 working work subj
+6 left leave subj
+7 landed land subj
+8 worked work subj
+9 monitors monitor subj
+10 recognized recognize obj
+11 presides preside subj
+12 credited credit obj
+13 volunteers volunteer subj
+14 gives give subj
+15 tackles tackle subj
+16 says say subj
+17 helps help subj
+18 says say subj
+
+B 4 6
+B 6 7
+B 7 8
+B 8 2
+B 8 1
+B 7 9
+
+
+--------------------------
+Hugo Patino actions
+
+--------------------------
+<DOC id="NYT_ENG_20010323.0233" type="story" >
+<HEADLINE>
+MEXICAN BREW
+</HEADLINE>
+<DATELINE>
+GOLDEN, Colo. (BC-COORS-MEXICAN-BREW-LATINTRADE-NYTSF)
+</DATELINE>

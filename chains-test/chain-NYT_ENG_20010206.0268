@@ -1,0 +1,27 @@
+1 departed depart subj
+2 spent spend subj
+3 deserved deserve subj
+4 accelerated accelerate subj
+5 arrived arrive pp
+6 named name pp
+7 discuss discuss obj
+8 rename rename pp
+9 honor honor obj
+
+B 1 2
+B 4 2
+B 3 4
+B 5 1
+
+
+--------------------------
+Ronald Wilson Reagan actions
+
+--------------------------
+<DOC id="NYT_ENG_20010206.0268" type="story" >
+<HEADLINE>
+ISSUES ASSOCIATED WITH REAGAN'S PRESIDENCY STILL DOMINATE
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-REAGAN-BIRTHDAY-NYT)
+</DATELINE>

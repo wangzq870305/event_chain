@@ -1,0 +1,28 @@
+1 said say subj
+2 retire retire subj
+3 move move subj
+4 persuaded persuade obj
+10 accept accept subj
+5 appoint appoint obj
+6 cited cite subj
+7 added add subj
+8 thought think subj
+9 said say subj
+
+B 2 3
+B 5 2
+B 4 2
+B 10 2
+
+
+--------------------------
+Edmund L. Jenkins actions
+
+--------------------------
+<DOC id="NYT_ENG_20011025.0388" type="story" >
+<HEADLINE>
+CHAIRMAN OF ACCOUNTING BOARD PLANS TO STEP DOWN IN JUNE
+</HEADLINE>
+<DATELINE>
+ (BC-FASB-CHAIRMAN-NYT)
+</DATELINE>

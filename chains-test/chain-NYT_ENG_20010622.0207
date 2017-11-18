@@ -1,0 +1,22 @@
+1 puffing puff subj
+2 transfered transfer obj
+3 tells tell obj
+4 met meet obj
+5 takes_hit take subj
+6 says say subj
+7 mop mop pp
+
+B 1 2
+B 5 2
+
+--------------------------
+Treasure actions
+
+--------------------------
+<DOC id="NYT_ENG_20010622.0207" type="story" >
+<HEADLINE>
+    Mother-daughter relationship fuels gripping HBO prison drama
+</HEADLINE>
+<DATELINE>
+WEST PALM BEACH, Fla. (BC-STRANGER0623-COX)
+</DATELINE>

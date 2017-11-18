@@ -1,0 +1,24 @@
+1 dominate dominate subj
+2 control control subj
+3 controlling control subj
+4 have have subj
+5 favor favor obj
+6 pick_up pick subj
+
+B 1 6
+B 2 6
+B 3 6
+B 4 6
+B 5 6
+
+--------------------------
+Democrats actions
+
+--------------------------
+<DOC id="NYT_ENG_20010109.0219" type="story" >
+<HEADLINE>
+    DESPITE GOP GAINS FROM CENSUS, REDISTRICTING OUTCOMES ARE
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-CENSUS-0110-COX)
+</DATELINE>

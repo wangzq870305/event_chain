@@ -1,0 +1,24 @@
+1 thinking think pp
+2 turn turn obj
+3 cursed curse obj
+4 taking_away take subj
+5 thank thank obj
+6 killed kill subj
+7 thanked thank obj
+8 thank thank obj
+
+B 4 3
+B 4 5
+
+
+--------------------------
+God actions
+
+--------------------------
+<DOC id="NYT_ENG_20010220.0078" type="story" >
+<HEADLINE>
+THANK GOD
+</HEADLINE>
+<DATELINE>
+``Thank you, God!'' (BC-ROEPER-PRAISING-GOD-COLUMN-NYTSF)
+</DATELINE>

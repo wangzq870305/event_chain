@@ -1,0 +1,42 @@
+1 detailed detail subj
+2 attacking attack obj
+3 stepped_in step subj
+4 appeared appear subj
+5 said say subj
+6 said say subj
+7 attacked attack obj
+8 accuses accuse obj
+9 voted vote subj
+10 ridiculed ridicule obj
+11 lost lose subj
+12 showed show obj
+13 benefiting benefit subj
+14 enjoying enjoy subj
+15 asking ask obj
+16 agreed agree subj
+17 called call subj
+19 replied reply subj
+
+B 3 4
+B 9 7
+B 9 8
+B 9 10
+B 11 12
+B 11 7
+B 11 8
+B 13 14
+B 15 16
+B 16 19
+
+
+--------------------------
+Bob Franks actions
+
+--------------------------
+<DOC id="NYT_ENG_20010504.0008" type="story" >
+<HEADLINE>
+TWO REPUBLICAN CANDIDATES ARE SWINGING (AND STINGING)
+</HEADLINE>
+<DATELINE>
+TRENTON, N.J. (BC-NJ-GOVERNOR-NYT)
+</DATELINE>

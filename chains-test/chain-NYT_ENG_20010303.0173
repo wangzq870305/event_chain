@@ -1,0 +1,89 @@
+1 led lead subj
+2 wrote write subj
+3 died die subj
+4 held hold subj
+5 persuade persuade subj
+6 wrote write subj
+7 elected elect obj
+8 headed head subj
+9 wrote write subj
+10 displayed display subj
+11 said say subj
+12 born bore obj
+13 performed perform subj
+14 studied study subj
+15 heard hear subj
+16 join join subj
+17 served serve subj
+18 assigned assign obj
+19 looked_up look subj
+20 pondered ponder subj
+21 speak speak subj
+22 described describe subj
+23 parachuted parachute obj
+24 invited invite obj
+25 found find subj
+26 survived survive obj
+27 turned_down turn subj
+28 serve serve subj
+29 worked work subj
+30 joined join subj
+31 emerged emerge subj
+32 identified identify obj
+33 won win subj
+34 served serve subj
+35 considered consider obj
+36 re-elected re-elect obj
+37 lost lose subj
+38 won win subj
+39 held hold subj
+40 served serve subj
+41 became become subj
+42 wrote write subj
+
+B 1 3
+B 2 3
+B 4 3
+B 5 6 (5 in 1953, 6 in 1988)
+B 7 8
+B 7 9
+B 13 14
+B 13 15
+B 15 16
+B 16 17
+B 17 18
+B 19 20
+B 20 21
+B 23 24
+B 21 23
+B 28 29
+B 29 30
+B 30 31
+B 31 32
+B 32 33
+B 33 34
+B 33 35
+B 34 36
+B 36 37
+B 37 38
+B 38 39
+B 39 26
+B 39 3
+B 35 3
+B 34 3
+B 21 3
+B 31 26
+B 34 26
+B 35 26
+
+--------------------------
+C.M. Woodhouse actions
+
+--------------------------
+<DOC id="NYT_ENG_20010303.0173" type="story" >
+<HEADLINE>
+C.M. WOODHOUSE, 83, BRITISH WRITER ON MODERN GREECE
+</HEADLINE>
+<DATELINE>
+ (BC-OBIT-WOODHOUSE-NYT)
+</DATELINE>

@@ -1,0 +1,42 @@
+1 played play subj
+2 carries carry subj
+3 travels travel subj
+4 prepares prepare subj
+5 fill fill subj
+6 hoist hoist subj
+7 pull pull subj
+8 arrived arrive subj
+9 tested test obj
+10 filled_up fill subj
+11 swooped swoop subj
+12 piloted pilot obj
+13 bringing bring obj
+14 modified modify obj
+15 arrive arrive subj
+16 used use obj
+17 flew fly subj
+18 dropped drop subj
+19 fill fill subj
+20 raise rise subj
+
+B 8 9
+B 8 10
+B 10 11
+B 8 12
+B 13 9
+B 13 10
+B 13 12
+B 14 15
+
+
+--------------------------
+The Firehawk actions
+
+--------------------------
+<DOC id="NYT_ENG_20010829.0034" type="story" >
+<HEADLINE>
+COMBAT COPTER SHINES IN FIRE FIGHT
+</HEADLINE>
+<DATELINE>
+LOS ANGELES (BC-COPTER-FIREHAWK-LADN)
+</DATELINE>

@@ -1,0 +1,24 @@
+1 asking_for ask subj
+2 stacked stack subj
+3 touts tout subj
+4 proposed propose subj
+5 explained explain subj
+6 dump dump subj
+7 start_over start subj
+8 needs need subj
+
+B 1 6
+B 2 6
+B 6 7
+
+--------------------------
+President Bush actions
+
+--------------------------
+<DOC id="NYT_ENG_20010726.0177" type="story" >
+<HEADLINE>
+    A SOCIAL SECURITY SCAM
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-MEANS-COLUMN-HNS)
+</DATELINE>

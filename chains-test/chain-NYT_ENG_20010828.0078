@@ -1,0 +1,30 @@
+1 wrapped_up wrap subj
+2 take_control take subj
+3 shape shape subj
+4 encourage encourage subj
+5 urge urge subj
+6 become become subj
+7 give give subj
+8 assume assume subj
+9 endure endure subj
+10 back_off back subj
+11 realize realize subj
+12 develop develop subj
+13 control control subj
+
+B 1 2
+B 6 7
+B 1 7
+B 2 10
+
+--------------------------
+parents actions
+
+--------------------------
+<DOC id="NYT_ENG_20010828.0078" type="story" >
+<HEADLINE>
+    What to do when children want their ``freedom''
+</HEADLINE>
+<DATELINE>
+ (BC-PSYCHOLOGY-LECRONE-0829-COX)
+</DATELINE>

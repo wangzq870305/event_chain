@@ -1,0 +1,22 @@
+1 kept_out keep obj
+2 denied deny subj
+3 says say subj
+4 miss miss subj
+5 replaced replace obj
+6 refused refuse subj
+7 said say subj
+
+B 4 2
+B 5 2
+
+--------------------------
+Moises Alou actions
+
+--------------------------
+<DOC id="NYT_ENG_20010826.0013" type="story" >
+<HEADLINE>
+ Astros notes
+</HEADLINE>
+<DATELINE>
+ (BC-BBN-ASTROS-NOTES-HNS)
+</DATELINE>

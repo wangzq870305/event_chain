@@ -1,0 +1,53 @@
+1 said say subj
+2 lobbied lobby subj
+3 said say subj
+4 furnished furnish subj
+5 realize realize subj
+6 heads head subj
+7 became become subj
+8 lent lend subj
+9 resisted resist subj
+10 wanted want subj
+11 embarassing embarass obj
+12 disclosed disclose subj
+13 said say subj
+14 disputed dispute subj
+15 acknowledged acknowledge subj
+16 explained explain subj
+17 agreed agree subj
+18 called call obj
+19 recalls recall subj
+20 asked ask obj
+21 knew know subj
+22 said say subj
+23 explained explain subj
+24 believes believe subj
+
+B 2 9
+B 4 9
+B 8 9
+B 9 11
+B 11 12
+B 17 14
+B 17 15
+B 17 16
+B 2 14
+B 2 15
+B 2 16
+B 2 17
+B 18 19
+B 20 22
+
+
+
+--------------------------
+Abraham H. Foxman actions
+
+--------------------------
+<DOC id="NYT_ENG_20010323.0449" type="story" >
+<HEADLINE>
+JEWISH LEADER REGRETS LOBBYING FOR RICH PARDON
+</HEADLINE>
+<DATELINE>
+ (BC-RICH-PARDON-500&AMP;ADD-NYT)
+</DATELINE>

@@ -1,0 +1,28 @@
+1 uses use subj
+2 relax relax subj
+3 said say subj
+4 became become subj
+5 asking ask obj
+6 spent spend subj
+7 stated state subj
+8 said say subj
+9 assured assure subj
+
+B 1 2
+B 5 4
+B 5 6
+B 6 7
+B 6 9
+
+
+--------------------------
+dermatologist Mark S. Fradin actions
+
+--------------------------
+<DOC id="NYT_ENG_20010619.0036" type="story" >
+<HEADLINE>
+    FORGET HIGH-TECH ARTILLERY _ EXPERTS STILL PREFER DEET
+</HEADLINE>
+<DATELINE>
+ (BC-SKEETER-BEATERS-NNS )
+</DATELINE>

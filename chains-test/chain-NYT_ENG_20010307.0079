@@ -1,0 +1,23 @@
+1 said say subj
+2 dropped drop subj
+3 toyed toy subj
+4 homed_in home subj
+5 established establish subj
+6 admit admit subj
+7 led lead subj
+
+B 2 4
+B 5 6
+
+
+--------------------------
+Roberto Menichetti actions
+
+--------------------------
+<DOC id="NYT_ENG_20010307.0079" type="story" >
+<HEADLINE>
+LONDON CHECKS OUT
+</HEADLINE>
+<DATELINE>
+ (BC-LONDON-SHOWS-3-FAIRCHILD-NYTSF)
+</DATELINE>

@@ -1,0 +1,37 @@
+1 left left subj
+2 claim claim subj
+3 go_down go subj
+4 chose choose subj
+5 spent spend subj
+6 planned plan subj
+7 went go subj
+8 proved prove subj
+9 gave give subj
+10 savors savor subj
+11 mocking mock subj
+12 believes believe subj
+13 secured secure subj
+
+B 1 2
+B 1 3
+B 5 7
+B 6 7
+B 7 8
+B 7 2
+B 7 3
+B 9 8
+B 10 11
+B 7 13
+B 9 13
+
+--------------------------
+the Baltimore Ravens actions
+
+--------------------------
+<DOC id="NYT_ENG_20010129.0047" type="story" >
+<HEADLINE>
+SWAGGERING RAVENS NOT BELOVED
+</HEADLINE>
+<DATELINE>
+TAMPA, Fla. (BC-FBN-KRIKORIAN-LADN)
+</DATELINE>

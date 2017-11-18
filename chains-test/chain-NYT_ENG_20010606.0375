@@ -1,0 +1,41 @@
+1 ordered order obj
+2 found_against find obj
+3 diversified diversify subj
+4 represented represent obj
+5 appeal appeal subj
+6 denied deny subj
+7 agreed agree subj
+8 insisted insist subj
+9 glamorized glamorize subj
+10 promoted promote subj
+11 hurt hurt obj
+12 produced produce pp
+13 concealed conceal subj
+14 ordered order obj
+
+B 3 1
+B 3 2
+B 2 5
+B 1 5
+B 8 9
+B 8 10
+B 2 11
+B 13 2
+B 13 1
+B 13 14
+B 9 14
+B 10 14
+B 9 2
+B 10 2
+
+--------------------------
+Philip Morris actions
+
+--------------------------
+<DOC id="NYT_ENG_20010606.0375" type="story" >
+<HEADLINE>
+L.A. JURY ORDERS PHILIP MORRIS TO PAY $3 BILLION TO SMOKER WHO HAS
+</HEADLINE>
+<DATELINE>
+LOS ANGELES (BC-TOBACCO-TRIAL-NYT)
+</DATELINE>

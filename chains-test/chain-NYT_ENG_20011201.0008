@@ -1,0 +1,25 @@
+1 averaging average subj
+2 held hold obj
+3 took take subj
+4 played play subj
+5 said say subj
+6 play play subj
+7 play play subj
+8 said say subj
+
+B 1 2
+B 1 3
+B 4 6
+B 4 7
+
+--------------------------
+senior point guard Markus Carr actions
+
+--------------------------
+<DOC id="NYT_ENG_20011201.0008" type="story" >
+<HEADLINE>
+CSUN WAS TAUGHT A LESSON
+</HEADLINE>
+<DATELINE>
+LOS ANGELES (BC-BKC-CSUNOTE-LADN)
+</DATELINE>

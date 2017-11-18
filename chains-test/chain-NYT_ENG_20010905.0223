@@ -1,0 +1,26 @@
+1 heard hear subj
+2 learned learn subj
+3 reported report subj
+4 spent spend subj
+5 transferring transfer subj
+6 ran run subj
+8 committed commit subj
+9 rooms room subj
+
+B 1 2
+B 4 5
+B 6 8
+B 8 9
+B 8 2
+
+--------------------------
+Stephon King actions
+
+--------------------------
+<DOC id="NYT_ENG_20010905.0223" type="story" >
+<HEADLINE>
+    Texas well-represented on Wyoming roster
+</HEADLINE>
+<DATELINE>
+LARAMIE, Wyo. (BC-FBC-WYOMING-0906-COX)
+</DATELINE>

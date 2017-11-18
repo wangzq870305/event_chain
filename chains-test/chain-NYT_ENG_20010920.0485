@@ -1,0 +1,31 @@
+1 called_off call subj
+2 deterred deter obj
+3 renewed renew subj
+4 argues argue subj
+5 estimates estimate subj
+6 cut_off cut subj
+7 vowed vow subj
+8 evict evict subj
+9 carried_out carry subj
+10 stood stand subj
+11 said say subj
+
+B 1 3
+B 2 3
+B 6 8
+B 6 9
+B 6 1
+B 6 2
+
+
+--------------------------
+Mayor Heriberto Lugo actions
+
+--------------------------
+<DOC id="NYT_ENG_20010920.0485" type="story" >
+<HEADLINE>
+MEXICAN HAMLET PRESSES EVANGELICALS
+</HEADLINE>
+<DATELINE>
+SAN NICOLAS TOLANTINO, Mexico (BC-MEXICO-CATHOLIC-BOS)
+</DATELINE>

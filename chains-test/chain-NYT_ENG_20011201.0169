@@ -1,0 +1,22 @@
+1 looking look subj
+2 found find subj
+3 obtained obtain subj
+4 pay pay subj
+5 refinanced refinance subj
+
+B 1 2
+B 2 3
+B 3 5
+
+
+--------------------------
+Carl and Debbie Kaufman actions
+
+--------------------------
+<DOC id="NYT_ENG_20011201.0169" type="story" >
+<HEADLINE>
+A BOOMING BUSINESS IN SELLING MONEY
+</HEADLINE>
+<DATELINE>
+ (BC-REAL-MORTGAGE-BROKERS-NYT)
+</DATELINE>

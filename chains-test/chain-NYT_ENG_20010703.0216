@@ -1,0 +1,36 @@
+1 walked walk subj
+2 peeled_back peel subj
+3 concocted concoct subj
+4 chosen chose subj
+5 recommended recommend pp_to
+6 lazed_around laze subj
+7 explored explore subj
+8 chartered charter subj
+9 zipping zip subj
+10 rented rent subj
+11 pulled pull subj
+12 staggered stagger subj
+13 took take subj
+14 stumbled stumble subj
+15 wandered wander subj
+
+B 1 2
+B 3 1
+B 4 1
+B 5 6
+B 5 7
+B 10 11
+B 11 12
+B 13 14
+
+--------------------------
+we (whole family) actions
+
+--------------------------
+<DOC id="NYT_ENG_20010703.0216" type="story" >
+<HEADLINE>
+AN INDOOR FAMILY GOES OUTDOORS
+</HEADLINE>
+<DATELINE>
+ (BC-TRAVEL-HIGH-SIERRA-$ADV08-2TAKES-NYT)
+</DATELINE>

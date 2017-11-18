@@ -1,0 +1,60 @@
+1 comes come subj
+2 lives live subj
+3 judge judge obj
+4 find find obj
+5 view view obj
+6 see see obj
+7 know know obj
+8 assumes assume subj
+9 says say subj
+10 gave give subj
+11 picks_up pick subj
+12 begins begin subj
+13 runs run subj
+14 lifts lift subj
+15 throw throw subj
+16 spent spend subj
+17 drive drive obj
+18 run run subjg
+19 taken_out take obj
+20 drive drive obj
+21 threw throw subj
+22 drain drain subj
+23 charged charge obj
+24 fired fire subj
+25 turns turn subj
+26 proved prove subj
+27 struck_out strike subj
+28 says say subj
+29 throwing throw subj
+30 hitting hit subj
+31 sent send subj
+32 aimed aim pp
+33 says say subj
+34 explains explain subj
+35 calls call subj
+36 retire retire subj
+37 elected elect obj
+38 retires retire subj
+39 win win subj
+40 gave give obj
+
+B 17 18
+B 19 20
+B 20 21
+B 38 37
+B 39 38
+
+
+
+--------------------------
+Roger Clemens actions
+
+--------------------------
+<DOC id="NYT_ENG_20010307.0105" type="story" >
+<HEADLINE>
+$ADV04
+</HEADLINE>
+<DATELINE>
+ (BC-ROGER-CLEMENS-CENTERPIECE-ADV04-ART-NYTSF)
+</DATELINE>

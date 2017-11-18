@@ -1,0 +1,34 @@
+1 fired fire obj
+2 charged charge obj
+3 pleaded plead subj
+4 returned return subj
+5 drove drive obj
+6 knew know obj
+7 describe describe obj
+8 know know obj
+9 moved move subj
+10 spent_time spend subj L
+11 met meet obj
+12 described describe obj
+13 met meet obj
+
+B 1 2
+B 2 3
+B 3 4
+B 3 5
+B 9 10
+B 9 11
+B 9 13
+B 3 9
+
+--------------------------
+Willie Dan Baker 's actions
+
+--------------------------
+<DOC id="NYT_ENG_20010206.0311" type="story" >
+<HEADLINE>
+NO HINT OF MOTIVE BEHIND ILLINOIS SHOOTING
+</HEADLINE>
+<DATELINE>
+MELROSE PARK, Ill. (BC-ILL-SHOOTING-NYT)
+</DATELINE>

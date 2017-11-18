@@ -1,0 +1,32 @@
+1 worked work pp
+2 had have pp
+3 hired hire subj
+4 bringing bring subj
+5 has have subj
+6 hired hire subj
+7 acquired acquire subj
+8 taken take subj
+9 coming come pp
+10 has have subj
+
+B 3 5
+B 4 5
+B 1 5
+B 2 5
+B 3 6
+B 3 7 (3 in 2000)
+B 1 6
+B 1 7
+
+
+--------------------------
+Microsoft actions
+
+--------------------------
+<DOC id="NYT_ENG_20010119.0006" type="story" >
+<HEADLINE>
+in 12th graf.)
+</HEADLINE>
+<DATELINE>
+REDMOND, Wash. (BC-DOT-COMMERS-RETURN-1STLD-WRITETHRU-2TAKES-NYT)
+</DATELINE>

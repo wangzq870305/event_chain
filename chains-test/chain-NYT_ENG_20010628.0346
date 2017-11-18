@@ -1,0 +1,47 @@
+1 extradite extradite obj
+2 accused accuse obj
+3 sending send obj
+4 sent_back send obj
+5 appeal appeal subj
+6 stood stand subj
+7 entered enter subj
+8 turned_away turn subj
+9 apprehended apprehend obj
+10 traveled travel subj
+11 worked work subj
+12 saw see subj
+13 moved move subj
+14 held hold obj
+15 face face subj
+16 allowed allow subj
+17 received receive subj
+
+B 2 1
+B 2 3
+B 2 4
+B 7 8
+B 7 6
+B 11 9
+B 9 1
+B 9 4
+B 9 2
+B 9 5
+B 11 13
+B 10 13
+B 9 14
+B 9 15
+B 14 1
+B 14 4
+B 14 5
+
+--------------------------
+Kopp actions
+
+--------------------------
+<DOC id="NYT_ENG_20010628.0346" type="story" >
+<HEADLINE>
+FRENCH COURT ORDERS EXTRADITION OF ANTI-ABORTION ACTIVIST WANTED
+</HEADLINE>
+<DATELINE>
+RENNES, France (BC-ABORT-EXTRADITE-NYT)
+</DATELINE>

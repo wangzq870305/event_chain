@@ -1,0 +1,37 @@
+1 stepped_onto step subj
+2 said say subj
+3 played play subj
+4 held hold subj
+5 said say subj
+6 won win subj
+7 taking take subj
+8 taunted taunt obj
+9 said say subj
+10 mused muse subj
+11 said say subj
+12 come_back come subj
+13 playing play subj
+14 back back subj
+15 scored score subj
+16 said say subj
+
+B 3 1
+B 4 1
+B 6 1
+B 8 12
+B 15 14
+B 12 13
+
+
+
+--------------------------
+Claudio Reyna actions
+
+--------------------------
+<DOC id="NYT_ENG_20011006.0231" type="story" >
+<HEADLINE>
+REYNA GIVE US LINEUP A KICK-START
+</HEADLINE>
+<DATELINE>
+ (BC-SOC-USTEAM-REYNA-BOS)
+</DATELINE>

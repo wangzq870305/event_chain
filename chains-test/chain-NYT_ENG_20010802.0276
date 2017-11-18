@@ -1,0 +1,51 @@
+1 looks look subj
+2 crosses cross subj
+3 explain explain subj
+4 like like obj
+5 says say subj
+6 talks talk subj
+7 born born obj
+8 supplying supply subj
+9 written write pp
+10 admits admit subj
+11 began begin subj
+12 found find subj
+13 took take subj
+14 earned earn obj
+15 put put obj
+16 defends defend subj
+17 fulfilled fulfill subj
+18 considered consider subj
+19 accuse accuse obj
+20 grows grow subj
+21 molested molest subj
+22 married marry subj
+23 read read subj
+24 says say subj
+25 admits admit subj
+26 writes write subj
+27 knows know subj
+28 sees see subj
+29 shakes shake subj
+30 feels feel subj
+
+B 1 2
+B 2 3
+B 3 4
+B 14 15
+B 19 20
+B 21 20
+B 20 23
+B 20 25
+
+--------------------------
+Woody Allen actions
+
+--------------------------
+<DOC id="NYT_ENG_20010802.0276" type="story" >
+<HEADLINE>
+WOODY ON WOODY
+</HEADLINE>
+<DATELINE>
+ (BC-WOODY-ALLEN-INTERVIEW-SPI)
+</DATELINE>

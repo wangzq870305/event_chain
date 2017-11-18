@@ -1,0 +1,22 @@
+1 suffered suffer subj
+2 locate locate subj
+3 send send subj
+4 acknowledges acknowledge subj
+5 violated violate subj
+6 oversees oversee obj
+7 work_for work obj
+
+B 5 4
+
+
+--------------------------
+FBI actions
+
+--------------------------
+<DOC id="NYT_ENG_20010511.0380" type="story" >
+<HEADLINE>
+TROUBLED FBI TRIPS AGAIN
+</HEADLINE>
+<DATELINE>
+WASHINGTON (BC-MCVEIGH-FBI-BOS)
+</DATELINE>
